@@ -1,3 +1,12 @@
+# Ruby on Rails tutorial: Twit App Sample Application (Chapter 3)
+
+This is the sample application for 
+[* Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
+by [Michael Hartl](http://michaelhartl.com/)
+Developed by [Jay Guadagnoli]
+
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
